@@ -1,6 +1,6 @@
 # *MAP_OF_COMPUTER_SCIENCE*
 
-![1642317777067.png](image/README/1642317777067.png)
+![1642317777067.png](1642317777067.png)
 
 Computer science can be considered as the fastest developing branch of  technical science. 
 
